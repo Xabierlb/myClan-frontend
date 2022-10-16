@@ -9,6 +9,22 @@
   cursor: default!important;
 
 }
+.clanTag {
+  font-size: 10px;
+  width: 280px;
+  margin-bottom: 15px;
+  text-align: right;
+  margin-top: 0px;
+  margin-bottom: 15px; 
+}
+.youtubeLink a{
+  width: fit-content;
+  text-align: right;
+  /* text-decoration: none; */
+  color: #828282;
+
+}
+
 .membersDiv {
   padding: 20px 30pt;
   max-width: 800px;
